@@ -1,6 +1,6 @@
 {
   "name": "react-native-dispatcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dispatch logic or data to all screens real-time and access it from component’s props anywhere.",
   "main": "lib/index.js",
   "homepage": "https://github.com/rmindo/react-native-dispatcher#readme",
